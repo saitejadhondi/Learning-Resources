@@ -38,6 +38,7 @@ Learning-Resources/
 | Topic                        | PDF                                                 |
 | ---------------------------- | --------------------------------------------------- |
 | C++                          | [C++.pdf](PDFs/C++.pdf)                             |
+| OOPS with C++                | [C++.pdf](PDFs/OOPSwithC++.pdf)                             |
 | Data Structures & Algorithms | [DSA.pdf](PDFs/DSA.pdf)                             |
 | Object-Oriented Programming  | [OOP.pdf](PDFs/OOP.pdf)                             |
 | Operating Systems            | [Operating_System.pdf](PDFs/Operating_System.pdf)   |
